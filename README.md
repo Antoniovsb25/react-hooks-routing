@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Projeto utilizado para reforçar os conhecimentos de React.js, como hooks (useState, useEffect e useContext) e routing
 
 ## Available Scripts
 
